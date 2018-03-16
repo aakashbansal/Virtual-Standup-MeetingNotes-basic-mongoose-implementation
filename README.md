@@ -8,6 +8,8 @@ The users can post new **Meeting Notes** and can also view the earlier notes. Th
 
 The following project requires **Node.Js** and **NPM** to be pre-installed and the necessary path variables for **Node** and **NPM** should also be set-up already.
 
+Remote Mongo Client (MongoLabs) is employed to store data in the database. So, MongoDB is not required to be installed on the machine.
+
 Open the terminal/command-line :
 
 ```
